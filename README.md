@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ferhat ÇETİNER</h1>
 <h3 align="center">Software Developer Engineering in Test</h3>
 
-![snake gif](https://github.com/FCetiner/FCetiner/blob/output/github-contribution-grid-snake.gif)
+<img src"https://github.com/FCetiner/FCetiner/blob/main/kucuk%20prens.jpg?raw=true">
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcetiner" alt="fcetiner" /></a> </p>
 
@@ -24,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcetiner&show_icons=true&locale=en" alt="fcetiner" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcetiner&" alt="fcetiner" /></p>
+
+![snake gif](https://github.com/FCetiner/FCetiner/blob/output/github-contribution-grid-snake.gif)
 
 
 
