@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferhat ÇETİNER</h1>
 <h3 align="center">Software Developer Engineering in Test</h3>
 
-<img src"https://github.com/FCetiner/FCetiner/blob/main/kucuk%20prens.jpg?raw=true">
+<img src="https://github.com/FCetiner/FCetiner/blob/main/kucuk%20prens.jpg?raw=true">
 
 
 
