@@ -1,4 +1,5 @@
-![snake gif](https://github.com/FCetiner/FCetiner/blob/output/github-contribution-grid-snake.gif)
+![gitartwork](gitartwork.svg)
+#![snake gif](https://github.com/FCetiner/FCetiner/blob/output/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Ferhat ÇETİNER</h1>
 <h3 align="center">Software Developer Engineering in Test</h3>
