@@ -13,5 +13,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: FCetiner
-           text: Ferhat CETINER
+           text: FERHAT
       - uses: jasineri/simple-push-action@v1
