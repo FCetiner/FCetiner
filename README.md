@@ -1,11 +1,10 @@
-![snake gif](https://github.com/FCetiner/FCetiner/blob/output/github-contribution-grid-snake.gif)
-
-<h1 align="center">Hi 👋, I'm Ferhat ÇETİNER</h1>
+![gitartwork](gitartwork.svg)
+<h1 align="center"> I'm Ferhat ÇETİNER</h1>
 <h3 align="center">Software Developer Engineering in Test</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcetiner" alt="fcetiner" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium, API**
+- 🌱 I’m currently learning ** API**
 
 - 💬 Ask me about **Java, Selenium, Cucumber, TestNG**
 
@@ -25,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fcetiner&" alt="fcetiner" /></p>
 
-
+![snake gif](https://github.com/FCetiner/FCetiner/blob/output/github-contribution-grid-snake.gif)
 
 
 
