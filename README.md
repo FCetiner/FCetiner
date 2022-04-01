@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcetiner" alt="fcetiner" /></a> </p>
 
-- 🌱 I’m currently learning ** API**
-
-- 💬 Ask me about **Java, Selenium, Cucumber, TestNG**
+- 💬 Ask me about **Java, Selenium, Cucumber, TestNG, API, Database Testing**
 
 - 📫 How to reach me **fcetinerr@gmail.com**
 
